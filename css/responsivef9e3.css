@@ -1,0 +1,1044 @@
+@media screen and (max-width:1430px) {
+    .mediaBanner h1 {
+        right: 180px !important;
+    }
+.InnerHero h1,.InnerHero h2{right: 180px !important;}
+}
+@media screen and (min-width:1430px) {
+    .float{bottom: 140px !important;right: 30px;}
+    .float1{bottom: 70px !important;right: 30px;}
+    #scroll{bottom: 0px !important;}
+.modalContactForm{left: 70% !important;height: 540px !important;}
+.mediaBanner h1 {
+    right: 180px !important;
+}
+.aboutus, .careers{min-height: 655px !important;}
+.InnerHero h1,.InnerHero h2{right: 180px !important;}
+.ProjectContentAreaIrish:before{ position:absolute; left:0; right:0; content:''; background:#F2DBC0; min-height:630px !important; bottom:0;}
+.ProjectContentAreaAriana:before, .ProjectContentAreaOrion:before{ position:absolute; left:0; right:0; content:''; background:#F2DBC0;bottom:0;}
+.ProjectContentAreaLivia:before{ position:absolute; left:0; right:0; content:''; background:#F2DBC0; min-height:530px !important; bottom:0;}
+.ProjectContentAreaPalacio:before{ position:absolute; left:0; right:0; content:''; background:#F2DBC0; min-height:680px !important; bottom:0;}
+.ProjectContentAreaNova:before{ position:absolute; left:0; right:0; content:''; background:#F2DBC0; min-height:650px !important; bottom:0;}
+.ProjectContentArea h2{margin-bottom:55px}
+.amenitiesBx li { width: 25%; min-height: 190px; font-size: 17px; line-height: 26px; padding: 30px 10px 0; }
+.amenitiesWrap{padding: 100px 0 80px;} 
+.projectHero  .heroBx .liviatab li a { margin: 10px 40px; }   
+.RoomLife p{font-size: 17px;}
+.managementBx h4{font-size: 21px;}
+.managementBx h3{font-size:31px;}
+.VisionMission:before {
+    right: 100px;
+    width: 63px;
+    height: 123px;
+    background-size: 100%;}
+    .OurPresence .container:before { width: 63px; height: 105px; background-size: 100%; top: -45px;left: 5px; }
+    .lifeexperience:after { right: 100px; width: 63px; height: 123px; background-size: 100%; }
+    .ourStandards:before {     margin-top: -158px; left: 80px; width: 63px; height: 133ipx; background-size: 100%; }
+    .promisingLife:before{
+        width: 63px;
+        height: 123px;
+    }
+.amenitiesBx li:first-child:after, .amenitiesBx li:nth-child(2):after, .amenitiesBx li:nth-child(3):after, .amenitiesBx li:nth-child(5):after, .amenitiesBx li:nth-child(6):after, .amenitiesBx li:nth-child(7):after { top: 55px; height: 75px; }
+.float{right:35px;bottom: 100px;}
+}
+@media screen and (max-width:1367px) {
+    .InnerHero h1,.InnerHero h2,.InnerHero h2{right: 100px !important;}
+/* header { padding: 16px 0; } */
+header .navbar-brand { padding: 0px; }
+.container { max-width: 1110px; }
+header .navbar-brand img { width: 150px; }
+header .navbar-nav { margin-left: 42%; margin-top: 3px; }
+.button { top: 1px; }
+.btn-open:after { width: 34px; height: 24px; }
+header .navbar-nav .calltxt { font-size: 15px; padding: 0px 40px 5px 0; margin-right: 25px; }
+.works ul li figure figcaption h3 { font-size: 20px; }
+.heroarea .works { max-width: 1110px; top: 11%; }
+.heroarea .heroBx { bottom: 24px; }
+.heroarea { 
+    /* height: 759px;  */
+    overflow: hidden; }
+.RoomLife { padding: 120px 0 130px; }
+.RoomLife h2 { font-size: 27px; line-height: 40px; }
+.RoomLife h3 { font-size: 42px; line-height: 45px; margin-bottom: 6px; }
+.RoomLife h4 { font-size: 20px; line-height: 26px; }
+.RoomLife p { font-size: 15px; margin-bottom: 55px; }
+.productwrap { background: url(../images/projectbg.png) center 00% no-repeat; background-size: 110%; }
+.AboutLeft {margin: 68px 0 0; padding: 95px 6% 25px 11%; }
+.aboutwrap h3 { font-size: 30px; line-height: 38px; margin-bottom: 25px; }
+.AboutRight { width: 56%; }
+.lifeexperience { padding: 130px 0 100px; }
+.lifeexperience h2 { font-size: 28px; line-height: 36px; margin-bottom: 25px; }
+.lifeexperience h3 { font-size: 18px; line-height: 32px; margin-bottom: 35px; }
+.lifeexperience li img { width: 80px; }
+.lifeexperience li p { margin: 22px 0 0 12px; line-height: 18px; font-size: 14px; }
+.lifeexperience li { height: 140px; }
+.lifeexperience:after { right: 100px; width: 63px; height: 123px; background-size: 100%; }
+.awardwrap { padding: 110px 0; }
+.awardwrap h2 { font-size: 28px; line-height: 32px; margin: 0 0 45px 10px; }
+.AwrdPic { overflow: hidden; height: 340px; background-size: 100% !important; }
+.OurPresence .container:before { width: 63px; height: 105px; background-size: 100%; top: -40px;left: 5px; }
+.OurPresence .container { padding: 100px 0 0; }
+.OurPresence h2 { font-size: 22px; line-height: 32px; margin-bottom: 30px; }
+.OurPresence .nav-tabs li { margin: 10px 0; }
+.OurPresence .nav-tabs li a { font-size: 16px; }
+.productwrap { background-size: cover; }
+.blogwrap { padding: 100px 0 70px; }
+.BlogBx h3 { padding: 15px; font-size: 17px; line-height: 24px; height: 80px; }
+#scroll { right: 20px; bottom: 350px; width: 50px; height: 44px; }
+.overlay li a { font-size: 20px; padding: 24px 0; }
+.awardIndent p { font-size: 14px; line-height: 22px; }
+.awardIndent p span { font-size: 18px; }
+/* inner page */
+.InnerHero { min-height: 645px; }
+.InnerHero h1,.InnerHero h2 { max-width: 790px; font-size: 35px; }
+.InnerHero .heroBx { bottom: 50px; }
+.InnerHero h1,.InnerHero h2 { top: 66%; }
+.InnerHero .heroBx li a { font-size: 16px; margin: 10px 40px; }
+
+.whoweare h3 { font-size: 28px; line-height: 38px; }
+.whoweare p { font-size: 15px; line-height: 22px; margin-top: 20px; }
+.promisingLife { padding: 80px 0 70px; }
+.promisingLife:before { top: -40px; left: 80px; width: 63px; height: 133px; background-size: 100%; }
+.promisingLife h4 { font-size: 16px; }
+.promisingLife h2, .VisionMission h3, .managementBx h3, .ourStandards h3 { font-size: 28px; line-height: 36px; }
+.promisingLife h3 { font-size: 20px; line-height: 35px; }
+.VisionMission { background-size: cover; height: 680px; }
+.managementBx { padding: 185px 0; }
+.managementBx:before { top: -40px; left: 80px; width: 63px; height: 133px; background-size: 100%; }
+.ManagementIndent { padding: 70px 70px 20px 70px; margin-top: 75px; }
+.ManagementIndent .Chairman { margin-top: -400px; }
+.magaBox { padding: 15px 0 0; }
+.magaBox li { width: 28.05%; }
+.magaBox li h4 { font-size: 18px !important; }
+.magaBox li h5 { font-size: 16px; margin-bottom: 25px; }
+.mdbx { padding: 30px 10px 20px 0 }
+.ourStandards { padding: 100px 0; }
+.ourStandards p { font-size: 15px; line-height: 20px; margin-bottom: 12px; }
+.nri-banner { min-height: 480px; padding: 360px 100px 0 0; }
+.nri-banner h1 { font-size: 60px; }
+.nri-banner h1 span { font-size: 36px; }
+.whyBox { padding: 150px 0 40px; }
+.AboutView h2 { font-size: 40px; margin-bottom: 5px; }
+.AboutView p { font-size: 15px; line-height: 24px; }
+.AboutView { padding: 0 0 90px; }
+.faqbx { padding: 85px 60px 95px; }
+.faqbx h2 { font-size: 40px; margin-bottom: 7px; }
+.faqbx p { font-size: 16px; line-height: 23px; margin-bottom: 70px; }
+.detailform { max-width: 960px; padding: 85px 130px 65px; }
+.mediaBanner { min-height: 590px; padding: 470px 0 0 0; }
+.MediaIndent { padding: 160px 0 80px; }
+.projectHero { min-height: 685px; background-size: cover !important; padding: 390px 0 0; }
+.projectHero .heroBx li a { margin: 10px 58px; }
+.projectHero .heroBx .liviatab li a { margin: 10px 40px; } 
+.projectHero h2 { font-size: 20px; margin: 0 0 15px 80px; }
+.ProjectContentArea:before { min-height: 550px; }
+.ProjectContentArea h2 { font-size: 30px; margin-bottom: 55px; line-height: 35px; }
+.ProjectContentArea p { font-size: 15px; line-height: 23px; margin-bottom: 20px; }
+.amenitiesWrap h2 { font-size: 30px; margin-bottom: 12px; }
+.amenitiesWrap h3 { font-size: 22px; margin-bottom: 35px; }
+.amenitiesBx { padding: 10px 15px; }
+.amenitiesBx li img { margin-bottom: 15px;}
+/* .amenitiesBx li .highimg{ min-height: 85px; min-width:80px !important} */
+.amenitiesBx li { width: 25%; min-height: 180px; font-size: 17px; line-height: 26px; padding: 30px 10px 0; }
+.amenitiesBx li:first-child:after, .amenitiesBx li:nth-child(2):after, .amenitiesBx li:nth-child(3):after, .amenitiesBx li:nth-child(5):after, .amenitiesBx li:nth-child(6):after, .amenitiesBx li:nth-child(7):after,.amenitiesBx li:nth-child(9):after { top: 50px; }
+.GalleryView h2 { font-size: 30px; margin-bottom: 35px; }
+.GalleryView .nav-tabs .nav-link { padding: 20px 35px; }
+/*.GalleryPost { min-height: 310px; }*/
+.GalleryView { padding: 85px 0 0px; }
+.ProjectPlans h2 { font-size: 30px; margin-bottom: 15px; }
+.ProjectPlans h3 { font-size: 22px; margin-bottom: 45px; }
+.FloorIndent p { font-size: 17px; line-height: 26px; margin-bottom: 15px; }
+.LocationView h2 { font-size: 30px; margin-bottom: 15px; }
+.LocationView h3 { font-size: 22px; margin-bottom: 30px; }
+.LocationView .accordion { min-height: 630px; }
+
+
+
+.VisionMission:before {
+    right: 100px;
+    width: 63px;
+    height: 123px;
+    background-size: 100%;}
+
+.MediaDetailBox {
+    padding: 190px 0 60px;
+}
+.MediaDetailBox h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.MediaDetailBox h3 {
+    font-size: 26px;
+    line-height: 44px;
+}
+
+.ourStandards:before {     margin-top:-159px; left: 80px; width: 63px; height: 133px; background-size: 100%; }
+}
+.promisingLife:after {
+    right: 100px;
+    width: 63px;
+    height: 123px;
+    background-size: 100%;}
+ @media screen and (max-width:1024px) {
+     .ManagementIndent {
+
+    padding: 80px 15px 20px 15px !important;
+
+}
+.modalContactForm{left: 60%;}
+
+header .navbar-brand img { width: 150px; }
+header .navbar-nav { margin-left: 13%; }
+header .navbar-nav .calltxt { font-size: 15px; padding: 10px 30px 5px 0; margin-right: 15px; }
+header .navbar-expand-md .navbar-nav .nav-link { margin: 0; }
+.button { top: 1px; }
+.heroarea { width: 100%; 
+    /* height: 700px;  */
+    overflow: hidden; }
+.heroarea .works { top: 44%; }
+.heroarea .heroBx { max-width: 740px; padding: 30px 15px; bottom: 20px; }
+.works ul li { padding: 0 7px; }
+.heroarea .heroBx li a { padding-left: 30px; font-size: 16px; line-height: 24px; }
+.RoomLife { padding: 60px 0; }
+.RoomLife h2 { font-size: 22px; line-height: 32px; }
+.RoomLife h3 { font-size: 45px; line-height: 45px; }
+.RoomLife h4 { font-size: 20px; line-height: 27px; margin-bottom: 6px; }
+.RoomLife p { font-size: 15px; margin-bottom: 35px; line-height: 20px; }
+.AboutLeft { width: 55%; margin: 20px 0 0; padding: 20px 20px 10px; }
+.aboutwrap h3 { font-size: 22px; line-height: 30px; margin-bottom: 10px; }
+.aboutwrap p { font-size: 14px; line-height: 20px; margin-bottom: 24px; }
+.lifeexperience { padding: 70px 0; }
+.lifeexperience h2 { font-size: 22px; line-height: 30px; margin-bottom: 15px; }
+.lifeexperience h3 { font-size: 16px; line-height: 25px; margin-bottom: 35px; }
+.lifeexperience li { width: 100%; height: 110px; }
+.lifeexperience li p { margin: 50px 0 0 15px; max-width: 70%; }
+.lifeexperience li img { width: 90px; }
+.lifeexperience:after { right: 60px; width: 50px; height: 120px; background-size: 100%; }
+.awardwrap { padding: 60px 0; }
+.awardwrap h2 { font-size: 22px; margin-bottom: 20px; margin-left: 10px; }
+.AwrdPic { height: 260px; background-size: 100% !important; }
+.awardIndent { padding: 15px; }
+.awardIndent p { font-size: 14px; line-height: 22px; margin-bottom: 8px; }
+.awardIndent p span { font-size: 20px; }
+.OurPresence .container:before { top: -40px; left: 10px; width: 90px; height: 83px; background-size: 100%; }
+.awardwrap .slick-next.slick-arrow { width: 40px; height: 38px; right: 10px; top: -57px; background-size: 100%; }
+.awardwrap .slick-prev.slick-arrow { width: 40px; height: 38px; left: auto; right: 60px; top: -57px; background-size: 100%; }
+.OurPresence .container { padding: 70px 0 0 15px; }
+.OurPresence h2 { font-size: 22px; line-height: 32px; margin-bottom: 0; }
+.OurPresence .nav-tabs li { margin: 6px 0; }
+.OurPresence .nav-tabs li a { font-size: 14px; padding: 11px 15px; }
+.blogwrap { padding: 50px 0 20px; }
+.blogwrap h2 { font-size: 22px; line-height: 38px; margin-bottom: 15px; }
+.BlogBx h3 { padding: 12px; font-size: 17px; line-height: 24px; height: auto; }
+.blogwrap p { font-size: 14px; line-height: 22px; margin-bottom: 25px; }
+.blogwrap .slick-next.slick-arrow { width: 40px; height: 38px; right: 10px; top: -57px; background-size: 100%; }
+.blogwrap .slick-prev.slick-arrow { width: 40px; height: 38px; left: auto; right: 60px; top: -57px; background-size: 100%; }
+footer form { width: 85%; margin-top: 20px; }
+footer .social { right: 0; }
+/* Inner page */
+.InnerHero { min-height: 540px; }
+.InnerHero h1,.InnerHero h2 { max-width: 610px; font-size: 28px; top: 68%; }
+.InnerHero .heroBx { max-width: 740px; padding: 25px 5px; }
+.InnerHero .heroBx li a { font-size: 14px; margin: 0 15px; }
+.whoweare { padding: 50px 0; }
+.whoweare h3 { font-size: 22px; line-height: 32px; }
+.promisingLife { padding: 60px 0; }
+.promisingLife h2, .VisionMission h3, .managementBx h3, .ourStandards h3 { font-size: 20px; line-height: 28px; }
+.promisingLife li { padding: 30px 0 15px 110px; }
+.promisingLife h4 { margin-bottom: 2px; }
+.promisingLife li p { font-size: 14px; line-height: 20px; }
+.MissionIndent { padding: 0px 40px 20px 30px; max-width: 450px; }
+.VisionMission h2 { font-size: 16px; margin-bottom: 10px; }
+.VisionMission p { font-size: 15px; line-height: 22px; margin-bottom: 10px; }
+.VisionMission { height: auto; padding: 0 0 100px; background: url(../images/visionbg.png) right bottom no-repeat; background-size: 110%; }
+.managementBx { padding: 80px 0; }
+.mangdata { padding-left: 20px; padding-right: 30px; }
+.managementBx h3 { margin-bottom: 15px; }
+.managementBx p { font-size: 14px; line-height: 22px; margin-bottom: 15px; }
+.ManagementIndent { padding: 40px 0 20px 30px; margin-top: 25px; }
+.managementBx h4 { font-size: 18px; }
+.ManagementIndent .Chairman { margin-top: -280px; }
+.managementBx h5 { font-size: 16px; margin-bottom: 8px; }
+.managementBx p { line-height: 20px; margin-bottom: 10px; }
+.magaBox { padding: 30px 0 0; }
+.magaBox li { width: 30.49%; margin: 0 15px; }
+.ourStandards { padding: 60px 0; }
+.ourStandards .StandardIndent { padding: 0; }
+.ourStandards h2 { font-size: 15px; margin-bottom: 7px; }
+.ourStandards h3 { margin-bottom: 5px; }
+.ourStandards p { font-size: 14px; line-height: 18px; margin-bottom: 9px; }
+.ourStandards li { font-size: 14px; line-height: 18px; }
+.nri-banner { min-height: 270px; padding: 200px 40px 0 0; }
+.nri-banner h1 { font-size: 42px; }
+.nri-banner h1 span { font-size: 30px; }
+.whyBox { padding: 60px 0 30px; }
+.AboutView h2 { font-size: 30px; margin-bottom: 5px; }
+.AboutView p { font-size: 14px; line-height: 22px; }
+.AboutView { padding: 0 0 70px; }
+.faqbx { padding: 50px 40px 95px; }
+.faqbx h2 { font-size: 30px; margin-bottom: 7px; }
+.faqbx p { font-size: 14px; line-height: 20px; margin-bottom: 40px; }
+.faqbx { padding: 50px 30px 95px; }
+.detailform { max-width: 675px; padding: 55px 50px 35px; }
+.detailform h2 { font-size: 20px; margin-bottom: 40px; }
+.mediaBanner { min-height: 325px; padding: 250px 0 0 0; background-size: 100%; }
+.MediaIndent { padding: 65px 0; }
+.MediaIndent .nav-tabs .nav-link { min-width: 210px; }
+.MediaIndent .tab-content { padding: 55px 0 0; }
+.MediaIndent .mediaBx { padding: 0 5px; margin-bottom: 30px; }
+.contact-banner { min-height: 275px; padding: 200px 0 0 0; }
+.contact-banner h1 { font-size: 35px; }
+.contactBox { padding: 60px 0; }
+.contactBox h2 { font-size: 20px; margin: 0 0 15px 40px; }
+.contactBox h3 { font-size: 18px; margin: 0 0 25px 40px; }
+.contactBox li { font-size: 15px; margin-bottom: 30px; line-height: 22px; padding-left: 40px; }
+.contactBox li img { height: 16px; top: 2px; width: auto; }
+.project-hero { min-height: 325px; padding: 255px 0 0; }
+.project-hero h1 { font-size: 35px; }
+.projectwrap { padding: 60px 0; }
+.projectwrap h2 { font-size: 30px; margin-bottom: 25px; }
+.Project-header { height: 390px; background-size: 100% !important; }
+.proIndent .Protile { padding: 10px 15px; }
+.proIndent h3 { font-size: 18px; line-height: 16px; margin-bottom: 5px; }
+.proIndent h4 { font-size: 14px; line-height: 18px; }
+.ProBx { margin-bottom: 40px; }
+.ProjectBx { padding: 0 10px; }
+.ProTxt { padding: 15px 10px; }
+.ProTxt li { font-size: 15px; }
+.projectHero { min-height: 480px; background-size: 120% !important; padding: 215px 0 0; }
+.projectHero .heroBx { padding: 30px 0; }
+.projectHero .heroBx li a { margin: 0px 25px; font-size: 16px; line-height: 16px; }
+.ProjectContentArea { padding: 60px 0 40px; }
+.ProjectContentArea h2 { font-size: 24px; margin-bottom: 35px; line-height: 28px; }
+.ProjectContentArea p { font-size: 14px; line-height: 20px; margin-bottom: 15px; }
+.ProjectContentArea h4 { font-size: 15px; margin-bottom: 7px; }
+.ProjectContentArea li { font-size: 12.2px; line-height: 23px; padding-left: 17px; margin-left: 7px; }
+.ProjectContentArea:before { min-height: 530px; }
+.amenitiesWrap h2 { font-size: 24px; margin-bottom: 10px; }
+.amenitiesWrap h3 { font-size: 20px; margin-bottom: 20px; line-height: 26px; }
+.amenitiesBx li img { margin-bottom: 10px; height: 50px; }
+.amenitiesBx li .highimg{ min-height: 70px; min-width:70px !important;}
+.amenitiesBx li { min-height: 165px; font-size: 13px; line-height: 20px; padding: 20px 10px 0; }
+.amenitiesBx li .highimg{padding-top:-10px !important;}
+.amenitiesBx li i { width: 120px; }
+.amenitiesBx li:first-child:after, .amenitiesBx li:nth-child(2):after, .amenitiesBx li:nth-child(3):after, .amenitiesBx li:nth-child(5):after, .amenitiesBx li:nth-child(6):after, .amenitiesBx li:nth-child(7):after { top: 55px; height: 75px; }
+.GalleryView { padding: 40px 0; }
+.GalleryView .nav-tabs .nav-link { padding: 15px 10px; font-size: 14px; }
+.GalleryPost { min-height: 190px; margin: 4px 0; ; }
+.GalleryView .col-sm-4 { padding: 0 5px; }
+.ProjectPlans { padding: 10px 0 10px; }
+.ProjectPlans h2 { font-size: 22px; margin-bottom: 10px; }
+.ProjectPlans h3 { font-size: 18px; margin-bottom: 30px; }
+.FloorIndent { padding: 25px 15px 10px; }
+.FloorIndent p { font-size: 14px; line-height: 22px; }
+.LocationView { padding: 30px 0; }
+.LocationView h2 { font-size: 24px; margin-bottom: 12px; }
+.LocationView h3 { font-size: 18px; margin-bottom: 25px; }
+.LocationView .accordion { padding: 15px 8px; min-height: 665px; }
+.LocationView .accordion .item .item-header h2 button { font-size: 14px; padding: 3px 8px 4px 12px; }
+.LocationView .accordion .item .item-header h2 i { width: 30px; height: 30px; }
+.LocationView .accordion { padding: 15px 8px; min-height: 424px; }
+.siteAddress { padding: 15px 10px; font-size: 15px; line-height: 24px; font-weight: 500; margin: 20px 0 40px; }
+
+.MediaDetailBox h2 {
+    font-size: 20px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.MediaDetailBox h3 {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+}
+@media (min-width:480px) {
+    .modalContactForm{left: 30%;}
+}
+@media screen and (min-width:767px) {
+    .modalContactForm{left: 67%;}
+}
+ @media screen and (max-width:767px) {
+    .modalContactForm{left: 50%;}
+
+    .enqform{
+        padding-left: 5px;
+        width: 300px;
+    }
+.heroarea { width: 100%; 
+    /* height: 800px;  */
+    overflow: hidden; }
+.heroarea .works { max-width: 355px; top: 10%; }
+.works ul li { width: 50%; padding: 0 5px; list-style: none; position: inherit !important; top: inherit !important; left: inherit !important; margin: 5px 0; }
+.works ul li figure figcaption { left: 10px; }
+.works ul li figure figcaption h3 { font-size: 18px; margin: 0 0 8px; }
+.btn-close:after { width: 27px; height: 26px; }
+.overlay { padding: 50px 30px 0 10px; }
+.overlay li a { font-size: 20px; padding: 25px 0; }
+.heroarea .heroBx { max-width: 355px; padding: 15px; bottom: 10px; text-align: center; }
+.heroarea .heroBx li { width: 32%; }
+.heroarea .heroBx li a { padding-left: 0; font-size: 15px; line-height: 21px; }
+.RoomLife { padding: 30px 0; }
+.RoomLife h2 { margin-bottom: 25px; }
+.RoomLife h3 { font-size: 32px; line-height: 32px; }
+.RoomLife p { margin-bottom: 20px; }
+.RoomLife h4 { font-size: 17px; line-height: 25px; }
+.AboutLeft { width: 100%; margin: 0; padding: 20px 15px; position: inherit; }
+.AboutRight { width: 100%; }
+.lifeexperience { padding: 30px 0; }
+.lifeexperience h2 { margin-bottom: 10px; }
+.lifeexperience h3 { margin-bottom: 15px; }
+.lifeexperience li { height: auto; margin-top: 20px; }
+.lifeexperience li p { margin: 40px 0 0 15px; max-width: 69%; font-size: 14px; line-height: 18px; }
+.awardwrap { padding: 20px 0; }
+.awardwrap h2 { margin-left: 0; width: 80%; line-height: 25px; }
+.OurPresence .container { padding: 30px 0 15px 15px; position: inherit; }
+.OurPresence .nav-tabs { max-width: 100%; width: 100%; }
+.OurPresence .nav-tabs li { display: block; width: 46%; margin: 5px; }
+.blogwrap { padding: 30px 0 0; }
+.BlogBx { height: 250px; background-size: 100% !important; margin-bottom: 10px; }
+footer { padding: 40px 0; }
+footer form { width: 90%; margin-top: 20px; }
+#scroll { right: 10px; bottom: 110px; width: 45px; height: 45px; }
+#scroll span { top: 40%; left: 44%; }
+.foot-logo { margin-bottom: 25px; }
+footer li h3 { font-size: 15px; margin-bottom: 7px; }
+footer li a { line-height: 26px; font-size: 14px; }
+/* Inner page */
+.InnerHero { min-height: 510px; }
+.InnerHero .heroBx { max-width: 355px; padding: 15px 5px 0; }
+.InnerHero h1,.InnerHero h2 { max-width: 345px; font-size: 22px; top: 65%;padding-left: 25px; }
+.InnerHero .heroBx ul { white-space: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.InnerHero .heroBx ul li { width: 40%; float: inherit; display: inline-block; overflow: hidden; white-space: initial; vertical-align: top; padding-bottom: 20px; }
+.InnerHero .heroBx ul li a { width: 100%; margin: 0px; }
+.whoweare { padding: 30px 0; }
+.whoweare h2 { font-size: 16px; margin-bottom: 10px; }
+.whoweare h3 { font-size: 20px; line-height: 29px; margin-bottom: 0; }
+.whoweare p { font-size: 15px; line-height: 21px; margin-top: 12px; }
+.promisingLife { padding: 25px 0; }
+.promisingLife h2, .VisionMission h3, .managementBx h3, .ourStandards h3 { font-size: 18px; line-height: 26px; margin-bottom: 8px; }
+.promisingLife h3 { font-size: 16px; line-height: 26px; margin-bottom: 15px; }
+.promisingLife li img { top: 5px; width: 70px; }
+.promisingLife li { padding: 10px 0 25px 85px; height: auto; }
+.promisingLife h4 { font-size: 15px; line-height: 22px; }
+.promisingLife li p br { display: none; }
+.promisingLife li:after { width: calc(100% - 70px); left: 86px; }
+.MissionIndent { padding: 0px 0 20px 0; max-width: 450px; }
+.VisionMission p { font-size: 14px; line-height: 20px; margin-bottom: 10px; }
+/* .managementBx:before { top: -70px; left: 10px; width: 43px; height: 93px; } */
+.managementBx { padding: 40px 0; }
+.mangdata { padding-left: 0; padding-right: 0; }
+.ManagementIndent { padding: 180px 0 20px 20px; margin-top: 275px; }
+.ManagementIndent .Chairman { margin-top: -790px; }
+.magaBox { padding: 10px 0 0; }
+.magaBox li { width: 100%; margin: 15px 0; }
+.mdbx { padding: 20px 10px 0 0; }
+.magaBox li h4 { font-size: 17px !important; }
+.magaBox li h5 { font-size: 14px; margin-bottom: 15px; }
+.ourStandards { padding: 40px 0; }
+.ourStandards .StandardIndent { padding: 20px 0 0; }
+.ourStandards p { font-size: 15px; line-height: 24px; margin-bottom: 15px; }
+.ourStandards li { font-size: 15px; line-height: 24px; }
+.ourStandards ul { margin-bottom: 15px; }
+.nri-banner { min-height: 270px; padding: 215px 10px 0 0; background-size: 200%; margin-top: 70px; }
+.nri-banner h1 { font-size: 30px; }
+.nri-banner h1 span { font-size: 22px; }
+.whyBox { padding: 30px 0 30px; }
+.AboutView h2 { font-size: 22px; margin-bottom: 5px; }
+.AboutView p { font-size: 14px; line-height: 22px; margin-bottom: 15px; }
+.AboutView { padding: 0 0 20px; }
+.faqbx { padding: 30px 15px 75px; }
+.faqbx .accordion .item .item-header h2 button.btn.btn-link { font-size: 14px; line-height: 34px; }
+.faqbx .accordion .item .item-header h2 button { padding: 7px 9px 7px 10px; }
+.faqbx .accordion .item .item-header h2 i { width: 30px; height: 30px; }
+.detailform { max-width: 315px; padding: 25px 20px 0; }
+.detailform h2 { font-size: 18px; margin-bottom: 30px; }
+.detailform label { font-size: 16px; margin-bottom: 2px; }
+.detailform .form-group { margin-bottom: 25px; }
+.detailform .form-control.message { width: 100%; }
+.detailform .submit-btn { width: 100%; margin-top: 25px; }
+.MediaIndent { padding: 30px 0; }
+.mediaBanner { min-height: 255px; padding: 200px 0 0 0; background-size: 160%; }
+.mediaBanner h1 { font-size: 32px; }
+.MediaIndent .nav-tabs .nav-link { min-width: 95px; margin: 0px; font-size: 14px; }
+.MediaIndent .tab-content { padding: 25px 0 0; }
+.contact-banner { min-height: 215px; padding: 165px 0 0 0; background-size: 170%; }
+.contact-banner h1 { font-size: 25px; }
+.contactBox { padding: 30px 0; }
+.project-hero { min-height: 155px; padding: 130px 0 0; }
+.project-hero h1 { font-size: 25px; }
+.projectwrap h2 { font-size: 24px; margin-bottom: 20px; }
+.projectwrap { padding: 40px 0; }
+.ruparel-logo { margin-bottom: 8px; }
+.ruparel-logo img { width: 200px; height: auto; }
+.projectHero h2 { font-size: 14px; margin: 0 0 12px 58px; }
+.projectHero { min-height: 335px; background-size: 170% !important; padding: 140px 0 0; }
+
+.projectHero .heroBx { padding: 0; }
+.projectHero .heroBx ul { white-space: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding: 20px 12px; }
+.projectHero .heroBx li { width: 40%; float: inherit; display: inline-block; overflow: hidden; white-space: initial; vertical-align: top; }
+.projectHero .heroBx li a { margin: 0; font-size: 15px; line-height: 50px; }
+.ProjectContentArea { padding: 30px 0; }
+.ProjectContentArea h2 { font-size: 20px; margin: 20px 0; line-height: 26px; }
+.ProjectContentArea:before { min-height: 650px; }
+.amenitiesWrap { padding: 25px 0; }
+.amenitiesWrap h2 { font-size: 22px; }
+.amenitiesWrap h3 { font-size: 14px; margin-bottom: 12px; line-height: 20px; }
+.amenitiesWrap h3 br { display: none; }
+.amenitiesBx li { min-height: 175px; font-size: 14px; line-height: 20px; padding: 20px 10px 0; width: 50%; }
+.amenitiesBx li br { display: none; }
+.amenitiesBx li:nth-child(2):after, .amenitiesBx li:nth-child(6):after { display: none; }
+.amenitiesBx li:nth-child(5):before { background: #fff; width: 100px; height: 1px; position: absolute; content: ''; bottom: 0; right: 0; left: 0; margin: 0 auto; }
+.amenitiesBx li:nth-child(6):before { background: #fff; width: 100px; height: 1px; position: absolute; content: ''; bottom: 0; right: 0; left: 0; margin: 0 auto; }
+.GalleryView { padding: 20px 0; }
+.GalleryView .nav-tabs { white-space: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.GalleryPost { min-height: 160px; margin: 4px 0; }
+.GalleryPost a { right: 15px; bottom: 15px; font-size: 14px; }
+.ProjectPlans h2 { font-size: 20px; margin-bottom: 10px; }
+.ProjectPlans h3 { font-size: 15px; margin-bottom: 20px; }
+.ProjectPlans .nav-tabs .nav-link { padding: 14px 25px; font-size: 16px; }
+.ProjectPlans .nav-tabs { margin-bottom: 25px; }
+.LocationView h2 { font-size: 22px; margin-bottom: 10px; }
+.LocationView h3 { font-size: 15px; margin-bottom: 15px; line-height: 23px; }
+.siteAddress { padding: 15px 10px; font-size: 14px; line-height: 22px; margin: 15px 0 20px; }
+.LocationView .download-btn { padding: 15px 50px; font-size: 16px; width: 100%; }
+
+.MediaDetailBox {
+    padding: 100px 0 40px;
+}
+.MediaDetailBox h2 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.MediaDetailBox h3 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.MediaDetailBox p {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+    margin-top: 14px;
+}
+.videogallery{
+    width: 320px;
+    height: 300px;
+}
+}
+@media (max-width: 360px) {
+    .project-hero{min-height: 130px;}
+.modalContactForm{left: 0;}
+
+}
+@media (max-width: 1365.98px) {
+.float{bottom: 100px;right:15px}
+}
+/*FOR MOBILE*/
+@media (min-width: 1365.98px) {
+.float{bottom: 140px;right:30px}
+.float1{bottom: 70px;right:30px}
+
+    header .navbar-brand img {
+        width: 150px;
+    }
+        /* map coords */
+
+    .pin-ps {
+        position: absolute;
+        background: transparent;
+        display: block;
+        height: 16px;
+    }
+    .pin-ps.pin-ps-v2 {
+        height: 39px;
+    }
+    .map-1-west-sky {
+        top: 8%;
+        right: 41%;
+        width: 76px;
+    }
+    .map-2-west-sky {
+        top: 27%;
+        right: 24%;
+        width: 176px;
+    }
+    .map-1-palacio {
+        top: 8%;
+        right: 34%;
+        width: 67px;
+    }
+    .map-2-palacio {
+        top: 28%;
+        right: 8.5%;
+        width: 148px;
+    }
+    .map-1-optima {
+        top: 11%;
+        right: 42%;
+        width: 68px;
+    }
+    .map-2-optima {
+        top: 34%;
+        right: 28%;
+        width: 138px;
+    }
+    .map-1-sky-greens {
+        top: 11.6%;
+        right: 32%;
+        width: 102px;
+    }
+    .map-2-sky-greens {
+        top: 35%;
+        right: 6%;
+        width: 202px;
+    }
+    .map-1-elara {
+        top: 15%;
+        right: 40.5%;
+        width: 55px;
+    }
+    .map-2-elara {
+        top: 42%;
+        right: 23.5%;
+        width: 121px;
+    }
+    .map-1-primaro {
+        top: 58%;
+        right: 32.5%;
+        width: 70px;
+    }
+    .map-3-primaro {
+        top: 36%;
+        right: 19.5%;
+        width: 150px;
+    }
+    .map-1-orion {
+        top: 62%;
+        right: 25%;
+        width: 67px;
+    }
+    .map-3-orion {
+        top: 45%;
+        right: 3%;
+        width: 127px;
+    }
+    .map-1-pride {
+        top: 64%;
+        right: 35%;
+        width: 54px;
+    }
+    .map-3-pride {
+        top: 48.5%;
+        right: 23%;
+        width: 114px;
+    }
+    .map-1-livia {
+        top: 67%;
+        right: 31%;
+        width: 57px;
+    }
+    .map-3-livia {
+        top: 55%;
+        right: 16%;
+        width: 117px;
+    }
+    .map-1-zion {
+        top: 71%;
+        right: 32%;
+        width: 51px;
+    }
+    .map-3-zion {
+        top: 64.5%;
+        right: 17%;
+        width: 111px;
+    }
+    .map-1-iris {
+        top: 76%;
+        right: 41%;
+        width: 49px;
+    }
+    .map-4-iris {
+        top: 29.5%;
+        right: 21%;
+        width: 89px;
+    }
+    .map-1-regalia {
+        top: 75%;
+        right: 31%;
+        width: 54px;
+    }
+    .map-3-regalia {
+        top: 73%;
+        right: 16%;
+        width: 100px;
+    }
+    .map-1-sea-palace {
+        top: 76%;
+        right: 13%;
+        width: 92px;
+    }
+    .map-1-elavia {
+        top: 80%;
+        right: 43%;
+        width: 63px;
+    }
+    .map-1-luminare {
+        top: 82%;
+        right: 34%;
+        width: 76px;
+    }
+    .map-4-luminare {
+        top: 44%;
+        right: 5%;
+        width: 166px;
+    }
+    .map-1-millennia {
+        top: 85%;
+        right: 41%;
+        width: 91px;
+    }
+    .map-4-millennia {
+        top: 52%;
+        right: 21%;
+        width: 201px;
+    }
+    .map-1-nova {
+        top: 85.5%;
+        right: 35%;
+        width: 49px;
+    }
+    .map-4-nova {
+        top: 52%;
+        right: 7%;
+        width: 109px;
+    }
+    .map-1-jewel {
+        top: 88%;
+        right: 40%;
+        width: 56px;
+    }
+    .map-4-jewel {
+        top: 58%;
+        right: 19%;
+        width: 116px;
+    }
+    .map-1-ariana {
+        top: 88%;
+        right: 34%;
+        width: 63px;
+    }
+    .map-4-ariana {
+        top: 58%;
+        right: 5%;
+        width: 143px;
+    }
+    /*  */
+}
+@media (min-width:1439.98px) {
+    .heroarea .works {
+        top: 19%;
+    }
+    .heroarea .heroBx {
+        bottom: 85px;
+    }
+}
+@media (min-width:1535.98px) {
+    .heroarea .works {
+        top: 19%;
+    }
+    /* map coords */
+    .map-1-west-sky {
+        right: 41%;
+        width: 86px;
+    }
+    .map-2-west-sky {
+        width: 196px;
+    }
+    .map-1-palacio {
+        right: 34%;
+        width: 78px;
+    }
+    .map-2-palacio {
+        width: 164px;
+    }
+    .map-1-optima {
+        width: 79px;
+    }
+    .map-2-optima {
+        width: 154px;
+    }
+    .map-1-sky-greens {
+        width: 117px;
+    }
+    .map-2-sky-greens {
+        width: 228px;
+    }
+    .map-1-elara {
+        width: 65px;
+    }
+    .map-2-elara {
+        width: 132px;
+    }
+    .map-1-primaro {
+        width: 86px;
+    }
+    .map-3-primaro {
+        width: 170px;
+    }
+    .map-1-orion {
+        top: 62.5%;
+    }
+    .map-3-orion {
+        width: 137px;
+    }
+    .map-1-pride {
+        right: 34.5%;
+        width: 60px;
+    }
+    .map-3-pride {
+        width: 127px;
+    }
+    .map-1-livia {
+        width: 67px;
+    }
+    .map-3-livia {
+        width: 125px;
+    }
+    .map-1-sea-palace {
+        width: 106px;
+    }
+    .map-1-luminare {
+        top: 82.5%;
+        width: 86px;
+    }
+    .map-4-luminare {
+        width: 186px;
+    }
+    .map-1-millennia {
+        top: 85.5%;
+        width: 103px;
+    }
+    .map-4-millennia {
+        width: 221px;
+    }
+    .map-1-nova {
+        right: 34%;
+        width: 73px;
+    }
+    .map-4-nova {
+        width: 117px;
+    }
+    .map-1-ariana {
+        top: 88.2%;
+        width: 71px;
+    }
+    .map-4-ariana {
+        width: 153px;
+    }
+    .map-3-zion {
+        width: 121px;
+    }
+    .map-3-regalia {
+        top: 73%;
+        right: 16%;
+        width: 113px;
+    }
+    .map-4-iris {
+        width: 99px;
+    }
+    .map-4-jewel {
+        top: 58%;
+        right: 19%;
+        width: 121px;
+    }
+}
+@media (min-width:1919.98px) {
+    .heroarea .works {
+        top: 37%;
+    }
+    /* map coords */
+    .pin-ps {
+        height: 23px;
+    }
+    .pin-ps.pin-ps-v2 {
+        height: 49px;
+    }
+    .map-1-west-sky {
+        right: 41%;
+        width: 112px;
+    }
+    .map-2-west-sky {
+        width: 246px;
+    }
+    .map-2-sky-greens {
+        width: 284px;
+    }
+    .map-1-palacio {
+        width: 97px;
+    }
+    .map-2-palacio {
+        width: 205px;
+    }
+    .map-1-optima {
+        width: 106px;
+    }
+    .map-2-optima {
+        width: 190px;
+    }
+    .map-1-elara {
+        width: 77px;
+    }
+    .map-2-elara {
+        width: 172px;
+    }
+    .map-1-primaro {
+        width: 104px;
+    }
+    .map-3-primaro {
+        width: 210px;
+    }
+    .map-1-orion {
+        width: 87px;
+    }
+    .map-3-orion {
+        width: 172px;
+    }
+    .map-1-pride {
+        width: 76px;
+    }
+    .map-3-pride {
+        width: 160px;
+    }
+    .map-1-livia {
+        width: 84px;
+    }
+    .map-3-livia {
+        width: 158px;
+    }
+    .map-1-zion {
+        width: 69px;
+    }
+    .map-3-zion {
+        width: 153px;
+    }
+    .map-1-regalia {
+        width: 72px;
+    }
+    .map-3-regalia {
+        width: 143px;
+    }
+    .map-1-iris {
+        width: 69px;
+    }
+    .map-4-iris {
+        width: 127px;
+    }
+    .map-1-sea-palace {
+        width: 133px;
+    }
+    .map-1-elavia {
+        width: 83px;
+    }
+    .map-1-luminare {
+        width: 109px;
+    }
+    .map-4-luminare {
+        width: 226px;
+    }
+    .map-1-millennia {
+        width: 132px;
+    }
+    .map-4-millennia {
+        width: 273px;
+    }
+    .map-1-nova {
+        width: 95px;
+    }
+    .map-4-nova {
+        width: 147px;
+    }
+    .map-1-jewel {
+        width: 80px;
+    }
+    .map-4-jewel {
+        width: 151px;
+    }
+    .map-1-ariana {
+        width: 93px;
+    }
+    .map-4-ariana {
+        width: 193px;
+    }
+}
+@media (max-width: 412px) {
+.modalContactForm{left: 10%;}
+    .InnerHero{min-height: 360px;}
+    .aboutus h1{top: 56% !important;}
+    .project h1{padding-left: 16% !important;}
+    .aboutus{background: url(../images/mobilebanners/aboutus1.png) center top no-repeat !important;}
+    .contact-banner{background: url(../images/mobilebanners/contact1.png) center top no-repeat !important;min-height: 360px;}
+    .project{background: url(../images/mobilebanners/projects1.png) center top no-repeat !important;padding:120px 0 0;min-height: 360px !important;}
+    .mediaBanner{background: url(../images/mobilebanners/media1.png) center top no-repeat !important;min-height: 360px;}
+    section.InnerHero.careers.clearfix{
+    background: url(../images/mobilebanners/career1.png) center top no-repeat !important;
+    background-size: cover;
+    }
+}
+@media (max-width: 480px) {
+.modalContactForm{left: 10%;}
+
+    .float1{
+        right: 5px;
+        bottom: 5px;
+        width: 50px;
+        height: 50px;
+        font-size: 23px;
+    }
+    .float{
+        right: 5px;
+        bottom: 57px;
+        width: 50px;
+        height: 50px;
+        font-size: 23px;
+    }
+    .GalleryView .nav-tabs .nav-link {
+        font-size: 9px;
+    }
+    .GalleryView .nav-tabs .nav-item {
+        margin-bottom: 0;
+    }
+    .projectHero .heroBx li a {
+        font-size: 10px;
+    }
+    .projectHero .heroBx.sticky li,
+    .projectHero .heroBx li {
+        padding-right: 13px;
+        width: auto;
+    }
+    .heroBx.sticky {
+        right: 0;
+        left: 0;
+        width: auto;
+        margin-left: 6px;
+        margin-right: 6px;
+    }
+    /*.heroarea {*/
+    /*    height: 200px;*/
+    /*}*/
+    .map-ht {
+        height: 300px;
+        margin-bottom: 1rem;
+    }
+    /* .projectHero .heroBx.sticky li {
+        width: 30%;
+
+    } */
+    /* .heroBx.sticky {
+        width: 500px;
+    } */
+    .projectHero .heroBx li a:hover i, .projectHero .heroBx li.active a i {
+        bottom: -5px;
+    }
+
+}
+

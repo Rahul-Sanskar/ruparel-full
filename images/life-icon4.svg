@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.208" y1="-0.2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eea657"/>
+      <stop offset="1" stop-color="#c72031"/>
+    </linearGradient>
+  </defs>
+  <g id="life-icon4" transform="translate(-860 -3390)">
+    <rect id="Rectangle_304" data-name="Rectangle 304" width="120" height="120" transform="translate(860 3390)" fill="url(#linear-gradient)"/>
+    <path id="Path_36" data-name="Path 36" d="M154.849,196.439h9.729m14.5-34.392v8.088h8.084m-17.781,47.776h-5.5m-17.584-30.5V162.047h32.779l8.084,8.088v47.776h-8.554m-17.967-40.639h12.179m-17.975,5.392H178.62m-23.771,4.649H178.62m-3.446,15.781a4.914,4.914,0,1,1-4.913,4.913,4.915,4.915,0,0,1,4.913-4.913Zm3.32,8.3v11.166l-3.3-2.162-3.336,2.162V211.39m-9.365,20.356-1.525-11.762a4.087,4.087,0,0,0-2.622-3.28l-9.855-3.01-1.179-2.6a12.967,12.967,0,0,0,2.134-4.649l.751-.394a12.565,12.565,0,0,0,.841-4.483l-.628-.46a18.888,18.888,0,0,0,.164-4.237c-.044-4.271-4.153-6.409-8.244-6.388-4.093-.022-8.2,2.117-8.246,6.388a19.01,19.01,0,0,0,.162,4.237l-.628.46a12.567,12.567,0,0,0,.843,4.483l.751.394a12.937,12.937,0,0,0,2.136,4.649l-1.181,2.6-9.855,3.01a4.09,4.09,0,0,0-2.622,3.28l-1.527,11.762" transform="translate(760.834 3255.128)" fill="none" stroke="#fff" stroke-miterlimit="22.926" stroke-width="3" fill-rule="evenodd"/>
+  </g>
+</svg>
