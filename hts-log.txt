@@ -1,0 +1,60 @@
+HTTrack3.49-23 launched on Fri, 23 Oct 2026 12:55:07 at https://ruparel.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://ruparel.in/ -O1 "C:\My Web Sites\ruparel full" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:57:00	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ruparel.in/)
+13:04:25	Error: 	"Not Found" (404) at link https://ruparel.in/css/images/Ruparel-Once.gif (from https://ruparel.in/css/styles.css?v=1.3)
+13:04:26	Warning: 	Moved Permanently for https://ruparel.in/ruparel-westsky/
+13:04:26	Warning: 	File has moved from https://ruparel.in/ruparel-westsky/ to https://ruparel.in/ruparel-westsky
+13:05:09	Error: 	"Not Found" (404) at link https://ruparel.in/images/mobile_banner.jpg (from https://ruparel.in/ruparel-palacio)
+13:05:09	Error: 	"Not Found" (404) at link https://ruparel.in/image/sectionback.jpg (from https://ruparel.in/arista)
+13:05:10	Error: 	"Not Found" (404) at link https://ruparel.in/luminare/img/slider/Luminare-Mobile-30nov-2023.jpg (from https://ruparel.in/ruparel-luminare)
+13:05:10	Info: 	Retry after error -4 (No data (connection closed)) at link https://ruparel.in/images/jewel/jewel_desktop.jpg (from https://ruparel.in/ruparel-jewel)
+13:05:12	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/mumbai-property-market-october-2026.png (from https://ruparel.in/blog/mumbai-property-market-october-2026-what-the-latest-numbers-mean-for-buyers)
+13:05:12	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/festive-season-buy-home-mumbai.png (from https://ruparel.in/blog/why-the-festive-season-is-the-best-time-to-buy-a-home-in-mumbai)
+13:05:13	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/2-bhk-apartments-mumbai-2026.png (from https://ruparel.in/blog/why-2-bhk-apartments-are-driving-mumbais-housing-demand-in-2026)
+13:05:17	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/how-much-down-payment-should-i-make.png (from https://ruparel.in/blog/how-much-down-payment-should-i-make-home-buying-guide-india)
+13:05:17	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/ready-reckoner-rate-mumbai-2026.png (from https://ruparel.in/blog/ready-reckoner-rate-in-mumbai-2026-how-it-affects-your-stamp-duty-and-property-value)
+13:05:17	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/monsoon_blog.jpeg (from https://ruparel.in/blog/monsoon-flat-inspection-checklist-mumbai)
+13:05:28	Error: 	"Not Found" (404) at link https://ruparel.in/mumbaixlasset/fonts/FUTURABQBOOK.ttf (from https://ruparel.in/mumbaixlasset/css/main3.css)
+13:05:28	Error: 	"Not Found" (404) at link https://ruparel.in/mumbaixlasset/images/hallmark_background-1.webp (from https://ruparel.in/mumbaixlasset/css/main3.css)
+13:05:28	Error: 	"Not Found" (404) at link https://ruparel.in/mumbaixlasset/image/config-bg.jpg (from https://ruparel.in/mumbaixlasset/css/main3.css)
+13:05:28	Error: 	"Not Found" (404) at link https://ruparel.in/mumbaixlasset/image/sectionback1.png (from https://ruparel.in/mumbaixlasset/css/main3.css)
+13:05:28	Error: 	"Not Found" (404) at link https://ruparel.in/mumbaixlasset/images/img-1.html (from https://ruparel.in/mumbaixlasset/css/main3.css)
+13:05:28	Warning: 	Moved Permanently for https://ruparel.in/signals/config/
+13:05:28	Warning: 	File has moved from https://ruparel.in/signals/config/ to https://ruparel.in/signals/config
+13:05:30	Error: 	"Not Found" (404) at link https://ruparel.in/t (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:30	Error: 	"Not Found" (404) at link https://ruparel.in/e (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:30	Warning: 	Moved Permanently for https://ruparel.in/signals/plugins/
+13:05:30	Warning: 	File has moved from https://ruparel.in/signals/plugins/ to https://ruparel.in/signals/plugins
+13:05:30	Warning: 	Moved Permanently for https://ruparel.in/schema.org/
+13:05:30	Warning: 	File has moved from https://ruparel.in/schema.org/ to https://ruparel.in/schema.org
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/o (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/n[e] (from https://connect.facebook.net/en_US/fbevents.js)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/images/flags.png (from https://ruparel.in/panache-form/intlTelInput.css)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/images/flags%402x.png (from https://ruparel.in/panache-form/intlTelInput.css)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_hfflrfhfflrfhffl.webp (from https://ruparel.in/blog/is-malad-west-still-a-good-location-to-buy-a-flat-in-2026-or-has-it-peaked)
+13:05:31	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_u7cqphu7cqphu7cq.webp (from https://ruparel.in/blog/ruparel-stardom-vs-other-malad-west-projects-what-sets-it-apart)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/signals/config (from https://ruparel.in/signals/config/)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/signals/plugins (from https://ruparel.in/signals/plugins/)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/schema.org (from https://ruparel.in/schema.org/)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_jjn6y9jjn6y9jjn6.webp (from https://ruparel.in/blog/what-makes-ruparel-luminare-in-dadar-east-different-from-other-projects)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_lr0jv2lr0jv2lr0j.webp (from https://ruparel.in/blog/is-ruparel-panache-in-santacruz-west-a-good-option-for-families-relocating-from-the-suburbs)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_33jnxc33jnxc33jn.webp (from https://ruparel.in/blog/why-should-i-invest-in-ruparel-ariana-parel-is-the-price-justified)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_xrfml7xrfml7xrfm.webp (from https://ruparel.in/blog/what-is-a-built-up-area-in-real-estate-everything-buyers-should-know)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_yd1qzhyd1qzhyd1q.webp (from https://ruparel.in/blog/is-ruparel-realty-a-good-builder-in-mumbai)
+13:05:35	Error: 	"Not Found" (404) at link https://ruparel.in/uploads/Gemini_Generated_Image_kkiv60kkiv60kkiv.webp (from https://ruparel.in/blog/floor-area-ratio-far-meaning-importance-and-calculation-in-real-estate)
+13:32:49	Info: 	Retry after error -4 (No data (connection closed)) at link https://ruparel.in/blog/?page=2033 (from https://ruparel.in/blog/?page=2032)
+15:11:51	Info: 	Retry after error -4 (Connect Error) at link https://ruparel.in/blog/?page=9926 (from https://ruparel.in/blog/?page=9925)
+15:11:51	Info: 	Retry after error -4 (Connect Error) at link https://ruparel.in/blog/?page=9926 (from https://ruparel.in/blog/?page=9925)
+15:11:51	Error: 	"Connect Error" (-4) after 2 retries at link https://ruparel.in/blog/?page=9926 (from https://ruparel.in/blog/?page=9925)
+
+HTTrack Website Copier/3.49-23 mirror complete in 2 hours 16 minutes 44 seconds : 10863 links scanned, 10817 files written (816815835 bytes overall) [521698199 bytes received at 63590 bytes/sec], 474900349 bytes transferred using HTTP compression in 10221 files, ratio 36%, 48.0 requests per connection
+(37 errors, 8 warnings, 4 messages)
