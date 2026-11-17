@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 
 <!-- Mirrored from https://ruparel.in/ by HTTrack Website Copier/3.x [XR&CO], Fri, 23 Oct 2026 07:25:10 GMT -->
@@ -6,6 +6,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <!-- DNS prefetch for external origins -->
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <!-- Preload critical assets -->
+  <link rel="preload" href="images/logonew.png" as="image">
+  <link rel="preload" href="css/stylese67d.css" as="style">
+  <link rel="preload" href="css/responsiveffaf.css" as="style">
   <title>Ruparel Realty - Real Estate Builder and Developer in Mumbai</title>
   <meta name="description" content="Ruparel Realty is the leading real estate builder and property developer in Mumbai, known for providing quality residential apartments and commercial projects.">
   <meta name="referrer" content="origin"/>
@@ -16,10 +25,12 @@
     
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-<link href="css/animate.css" rel="stylesheet" type="text/css" />
 <link href="css/slick.css" rel="stylesheet" type="text/css" />
 <link href="css/stylese67d.css?v=1.3" rel="stylesheet" type="text/css" />
-<link href="css/responsiveffaf.css?v=1.4" rel="stylesheet" type="text/css" />  
+<link href="css/responsiveffaf.css?v=1.4" rel="stylesheet" type="text/css" />
+<!-- animate.css loads after page renders - non-blocking -->
+<link href="css/animate.css" rel="stylesheet" media="print" onload="this.media='all'" type="text/css" />
+<noscript><link href="css/animate.css" rel="stylesheet" type="text/css" /></noscript>  
     
   
 <meta name="google-site-verification" content="7f_HmoTLHpKhYghUJOQTuG53f8DX-1ofs-a2l06s_qw" />
@@ -28,7 +39,7 @@
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T8P9837G');</script>
 <!-- End Google Tag Manager -->
 
@@ -404,63 +415,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <section class="heroarea clearfix">
          <div class="hero-new1">
             <!-- Desktop Video -->
-            <video class="video-desktop1" muted autoplay loop playsinline>
+            <video class="video-desktop1" muted autoplay loop playsinline poster="images/web1.jpeg" preload="none">
                <source src="images/websitebanner-desktop1.mp4" type="video/mp4">
             </video>
-            <!--<img src="images/web1.jpeg" class="web" alt="banner"/>-->
             <!--Mobile Video -->
-            <video class="video-mobile1" muted autoplay loop playsinline>
+            <video class="video-mobile1" muted autoplay loop playsinline poster="images/mob1.jpeg" preload="none">
                <source src="images/websitebanner-mobile1.mp4" type="video/mp4">
             </video>
-             <!--<img src="images/mob1.jpeg" class="mob" alt="banner"/>-->
          </div>
          <div class="works clearfix">
             <div class=" western_suburb_images box-slide" style="display:none">
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-zinnia.html">
-                     <figure data-tilt> <img src="images/zinnia-tile.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/zinnia-tile.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-stardom.html">
-                     <figure data-tilt> <img src="images/stardom-tile-index.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/stardom-tile-index.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-panache.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Panache.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Panache.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-westsky.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Westsky-ruparel-homecard.jpeg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Westsky-ruparel-homecard.jpeg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-optima.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Optima.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Optima.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="600ms">
                   <a href="ruparel-palacio.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Palacio.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Palacio.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="400ms">
                   <a href="ruparel-elara.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Elara.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Elara.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="800ms">
                   <a href="ruparel-skygreen.html">
-                     <figure data-tilt> <img src="images/homepage-cards/skygreen-elevation2.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/skygreen-elevation2.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
@@ -468,61 +477,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="central_mumbai_images box-slide" style="display:none">
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="arista.html">
-                     <figure data-tilt> <img src="images/ruparel-arista-tile-home.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/ruparel-arista-tile-home.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-celestia.html">
-                     <figure data-tilt> <img src="images/RR_Celestia_Elevation_329x490p.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/RR_Celestia_Elevation_329x490p.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-premia.html">
-                     <figure data-tilt> <img src="images/homepage-cards/premia-tile-index.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/premia-tile-index.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-urbana.html">
-                     <figure data-tilt> <img src="images/homepage-cards/urbana-tile-index.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/urbana-tile-index.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-pristine.html">
-                     <figure data-tilt> <img src="images/homepage-cards/RPR_Elevation_329x490p.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/RPR_Elevation_329x490p.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="600ms">
                   <a href="ruparel-primero.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Primero.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Primero.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="600ms">
                   <a href="ruparel-pride.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Pride.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Pride.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="400ms">
                   <a href="ruparel-orion.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Orion.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Orion.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="100ms">
                   <a href="ruparel-livia.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Livia.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Livia.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-crest.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Crest.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Crest.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
@@ -530,25 +539,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="central_suburb_images box-slide" style="display:none">
                <div class="box-slide-content wow fadeInUp" data-wow-delay="400ms" style="">
                   <a href="ruparel-luminare.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Luminare.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Luminare.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="800ms">
                   <a href="ruparel-iris.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Iris.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Iris.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="600ms">
                   <a href="ruparel-regalia.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Regalia.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Regalia.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-zion.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Zion.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Zion.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
@@ -557,31 +566,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="south_mumbai_images box-slide" style="display:none">
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-jewel.html">
-                     <figure data-tilt> <img src="images/homepage-cards/jewel.jpg" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/jewel.jpg" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="200ms">
                   <a href="ruparel-millennia.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Millennia.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Millennia.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="600ms">
                   <a href="ruparel-ariana.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Ariana.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Ariana.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class="box-slide-content wow fadeInUp" data-wow-delay="800ms">
                   <a href="ruparel-nova.html">
-                     <figure data-tilt> <img src="images/homepage-cards/Nova.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/Nova.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
                <div class=" western_li box-slide-content wow fadeInUp" data-wow-delay="800ms">
                   <a href="ruparel-vivanza.html">
-                     <figure data-tilt> <img src="images/homepage-cards/vivanza.png" alt="Image" class="thumb">
+                     <figure data-tilt> <img loading="lazy" src="images/homepage-cards/vivanza.png" alt="Image" class="thumb">
                      </figure>
                   </a>
                </div>
@@ -659,7 +668,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <p class="wow fadeInUp" data-wow-delay="500ms">Ruparel Realty has grown into one of the most preferred property developers in Mumbai, known for crafting homes that combine thoughtful design with practical comfort. If you're exploring new projects across the city, our portfolio helps you compare space, amenities, and locations with clarity.</p>
                
             </div>
-            <div class="AboutRight clearfix wow fadeInRight" data-wow-delay="100ms"><img src="images/about.png" class="img-fluid" alt="About"> </div>
+            <div class="AboutRight clearfix wow fadeInRight" data-wow-delay="100ms"><img loading="lazy" src="images/about.png" class="img-fluid" alt="About"> </div>
          </div>
       </section>
       <!-- PROMISING MAXIMUM LIFE EXPERIENCES -->
@@ -675,27 +684,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div class="col-lg-7 col-sm-7 col-12">
                   <ul>
                      <li class="wow fadeInUp" data-wow-delay="100ms">
-                        <img src="images/life-icon.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon.svg" alt="Life">
                         <p>TOWERS THAT OFFER ICONIC VERTICAL LUXURY</p>
                      </li>
                      <li class="wow fadeInUp" data-wow-delay="300ms">
-                        <img src="images/life-icon1.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon1.svg" alt="Life">
                         <p>ESTABLISHED IN-CITY NEIGHBOURHOOD</p>
                      </li>
                      <li class="wow fadeInUp" data-wow-delay="500ms">
-                        <img src="images/life-icon2.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon2.svg" alt="Life">
                         <p>PERFECTLY TAILORED PREMIUM AMENITIES</p>
                      </li>
                      <li class="wow fadeInUp" data-wow-delay="700ms">
-                        <img src="images/life-icon3.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon3.svg" alt="Life">
                         <p>INTELLIGENT SPACE DESIGN</p>
                      </li>
                      <li class="wow fadeInUp" data-wow-delay="800ms">
-                        <img src="images/life-icon4.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon4.svg" alt="Life">
                         <p>MINIMUM LIFELONG COST OF OWNERSHIP</p>
                      </li>
                      <li class="wow fadeInUp" data-wow-delay="900ms">
-                        <img src="images/life-icon5.svg" alt="Life">
+                        <img loading="lazy" src="images/life-icon5.svg" alt="Life">
                         <p>COMPLETE ASSURANCE OF DELIVERY</p>
                      </li>
                   </ul>
@@ -714,7 +723,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/awards-ruparel.png" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/awards-ruparel.png" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p class="gacenter">
                            <a class="example-image-link" href="images/awards-ruparel.png" data-lightbox="example-set" data-title="Ruparel Realty as we received the Excellence in Residential Project award at the Times Real Estate Conclave & Awards 2024-25 for our luxury project, Ruparel Stardom." style="text-align:centre !important;"><span>Ruparel Realty as we received the Excellence in Residential Project award at the Times Real Estate Conclave & Awards 2024-25 for our luxury project, Ruparel Stardom.</span>
@@ -727,7 +736,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/iconic-project-of-western-suburbs.jpeg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/iconic-project-of-western-suburbs.jpeg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/iconic-project-of-western-suburbs.jpeg" data-lightbox="example-set" data-title="Recognised for Excellence: Mumbai XL at mid-day International Real Estate & Infrastructure Icons 2021"><span>Recognised for Excellence: Mumbai XL at mid-day International Real Estate & Infrastructure Icons 2021</span></a>
@@ -739,7 +748,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/RHT05420.jpg" class="img-fluid" alt="img" style="width:415px!important; height:268px!important;">
+                     <img loading="lazy" src="images/RHT05420.jpg" class="img-fluid" alt="img" style="width:415px!important; height:268px!important;">
                      <div class="mediagal">
                         <p class="gacenter">
                            <a class="example-image-link" href="images/RHT05420.jpg" data-lightbox="example-set" data-title="Embracing the Triumphs! Ruparel Panache by Ruparel Realty has been honoured with the Most Popular Project of the Year award at the 15th Realty+ Conclave & Excellence Awards, 2023." style="text-align:centre !important;"><span>Embracing the Triumphs! Ruparel Panache by Ruparel Realty has been honoured with the Most Popular Project of the Year award at the 15th Realty+ Conclave & Excellence Awards, 2023.</span>
@@ -750,7 +759,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/awards-function-ruparel.jpeg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/awards-function-ruparel.jpeg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p class="gacenter">
                            <a class="example-image-link" href="images/awards-function-ruparel.jpeg" data-lightbox="example-set" data-title="Ruparel Vivanza, Byculla has been recognised as the Iconic Project Launch of the Year at the esteemed Times Real Estate Conclave Awards 2022-2023." style="text-align:centre !important;"><span>Ruparel Vivanza, Byculla has been recognised as the Iconic Project Launch of the Year at the esteemed Times Real Estate Conclave Awards 2022-2023.</span>
@@ -761,7 +770,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/hindustan-times-award-2018.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/hindustan-times-award-2018.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p class="gacenter">
                            <a class="example-image-link" href="images/hindustan-times-award-2018big.png" data-lightbox="example-set" data-title="Mr. Milind Ruparel, Director, Ruparel Realty receives the 'Hindustan Times Award' for Best Affordable Housing Project (Ruparel Optima, Kandivali West)" style="text-align:centre !important;"><span>Mr. Milind Ruparel, Director, Ruparel Realty receives the 'Hindustan Times Award' for Best Affordable Housing Project (Ruparel Optima, Kandivali West)<br>October 31, 2018</span>
@@ -772,7 +781,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/midday-real-estate-icon-awards-s.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/midday-real-estate-icon-awards-s.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/midday-real-estate-icon-awards-b.png" data-lightbox="example-set" data-title="Excellence in Luxury Real Estate Award presented by Mr. Vishwanath Mahadeshwar, Mayor of Mumbai, Radio City Mumbai City Icon 2018"><span>Excellence in Luxury Real Estate Award presented by Mr. Vishwanath Mahadeshwar, Mayor of Mumbai, Radio City Mumbai City Icon 2018<br>April 27, 2018</span></a>
@@ -782,7 +791,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/most-promising-developer-award-at-Gujarati-midday-gaurav-awards-s.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/most-promising-developer-award-at-Gujarati-midday-gaurav-awards-s.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/most-promising-developer-award-at-Gujarati-midday-gaurav-awards.jpg" data-lightbox="example-set" data-title="Mr. Amit Ruparel, MD - Ruparel Realty receiving Most Promising Developer Award at Gujarati Midday Gaurav Awards"><span>Mr. Amit Ruparel, MD - Ruparel Realty receiving Most Promising Developer Award at Gujarati Midday Gaurav Awards<br>December 19, 2017</span></a>
@@ -792,7 +801,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/excellence-in-luxury-real-estate-award.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/excellence-in-luxury-real-estate-award.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p class="gacenter">
                            <a class="example-image-link" href="images/excellence-in-luxury-real-estate-award-big.png" data-lightbox="example-set" data-title="Ruparel Realty received an award in the category of Electronic Media Campaign of the Year(Radio/TV) in 10th Realty+ Excellence Awards (West) 2018" style="text-align:centre !important;"><span>Ruparel Realty received an award in the category of "Electronic Media Campaign of the Year(Radio/TV)" in 10th Realty+ Excellence Awards (West) 2018<br>September 12, 2018</span>
@@ -803,7 +812,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/electronic-media-award-2018-s.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/electronic-media-award-2018-s.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/midday-real-estate-icon-awards-b.png" data-lightbox="example-set" data-title="Midday Real Estate Icon Awards. Our Managing Director, Mr. Milind Ruparel being felicitated for Iconic Luxury Homes - Western Mumbai for Ruparel Palacio Kandivali project."><span>Midday Real Estate Icon Awards.<br>Our Managing Director, Mr. Milind Ruparel being felicitated for Iconic Luxury Homes - Western Mumbai for Ruparel Palacio Kandivali project.<br>December 18, 2017</span></a>
@@ -813,7 +822,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/ruparel-optima-award-s.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/ruparel-optima-award-s.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/ruparel-optima-award.jpg" data-lightbox="example-set" data-title="Ruparel Optima awarded as Iconic Affordable Homes in Western Suburb by Times Realty Icons"><span>Ruparel Optima awarded as Iconic Affordable Homes in Western Suburb by Times Realty Icons<br>November 28, 2017</span></a>
@@ -823,7 +832,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div>
                   <div class="awardbx clearfix">
-                     <img src="images/best-iconic-brand-mumbai-by-state-cabinet-minister-for-housing-department-mr.-prakash-mehta-s.jpg" class="img-fluid" alt="img">
+                     <img loading="lazy" src="images/best-iconic-brand-mumbai-by-state-cabinet-minister-for-housing-department-mr.-prakash-mehta-s.jpg" class="img-fluid" alt="img">
                      <div class="mediagal">
                         <p>
                            <a class="example-image-link" href="images/best-iconic-brand-mumbai-by-state-cabinet-minister-for-housing-department-mr.-prakash-mehta-b.jpg" data-lightbox="example-set" data-title="Best iconic brand Mumbai by State Cabinet Minister for housing department Mr. Prakash Mehta MidDay Real Estate Icons Award 2016."><span>Best iconic brand Mumbai by State Cabinet Minister for housing department Mr. Prakash Mehta MidDay Real Estate Icons Award 2016.</span></a>
@@ -853,10 +862,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </div>
          <div class="tab-content ">
             <div id="Location" class="tab-pane in active">
-               <!--<img src="images/full.gif" class="img-fluid"> -->
-               <!-- <img src="images/all-projects-gif-v1.gif" class="img-fluid">  -->
-               <!-- <img src="images/RUPAREL-PROJECTS-MAP-2_new.jpg" class="img-fluid">  -->
-               <img src="images/map-5dec.jpg" class="img-fluid" alt="Location map of Ruparel Realty projects across Mumbai"> 
+               <!--<img loading="lazy" src="images/full.gif" class="img-fluid"> -->
+               <!-- <img loading="lazy" src="images/all-projects-gif-v1.gif" class="img-fluid">  -->
+               <!-- <img loading="lazy" src="images/RUPAREL-PROJECTS-MAP-2_new.jpg" class="img-fluid">  -->
+               <img loading="lazy" src="images/map-5dec.jpg" class="img-fluid" alt="Location map of Ruparel Realty projects across Mumbai"> 
                <a href="ruparel-westsky.html">
                   <div class="pin-ps map-1-west-sky"></div>
                </a>
@@ -912,7 +921,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </a>
             </div>
             <div id="Western" class="tab-pane">
-               <img src="images/Western-projects-gif-v1.gif" class="img-fluid" alt="Map">
+               <img loading="lazy" src="images/Western-projects-gif-v1.gif" class="img-fluid" alt="Map">
                <a href="ruparel-westsky.html">
                   <div class="pin-ps pin-ps-v2 map-2-west-sky"></div>
                </a>
@@ -930,7 +939,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </a>
             </div>
             <div id="Central" class="tab-pane">
-               <img src="images/South-projects-gif-v1.gif" class="img-fluid" alt="Map">
+               <img loading="lazy" src="images/South-projects-gif-v1.gif" class="img-fluid" alt="Map">
                <a href="ruparel-primero.html">
                   <div class="pin-ps pin-ps-v2 map-3-primaro"></div>
                </a>
@@ -954,7 +963,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </a>
             </div>
             <div id="South" class="tab-pane">
-               <img src="images/SouthMumbai-projects-gif-v1.gif"  class="img-fluid" alt="Map">
+               <img loading="lazy" src="images/SouthMumbai-projects-gif-v1.gif"  class="img-fluid" alt="Map">
                <a href="ruparel-iris.html">
                   <div class="pin-ps pin-ps-v2 map-4-iris"></div>
                </a>
@@ -975,7 +984,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </a>
             </div>
             <div id="Centralmum" class="tab-pane">
-               <img src="images/Central-projects-gif-v1.gif"  class="img-fluid" alt="Map">
+               <img loading="lazy" src="images/Central-projects-gif-v1.gif"  class="img-fluid" alt="Map">
                <a href="ruparel-iris.html">
                   <div class="pin-ps pin-ps-v2 map-4-iris"></div>
                </a>
@@ -1339,7 +1348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="col-lg-5 col-sm-6 col-12">
             <div class="foot-logo">
                <a href="index.html"
-                  ><img src="images/Ruparel-logo-white.png" alt="Ruparel"
+                  ><img loading="lazy" src="images/Ruparel-logo-white.png" alt="Ruparel"
                   /></a>
             </div>
             <ul>
@@ -1580,22 +1589,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
 </footer>  </div>
 
-  <!-- Core libs (keep only one jQuery) -->
-<!--<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>-->
-<script src="../cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
+  <!-- Core libs -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
     integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script type="text/javascript" src="js/popper.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/slick.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/purecounter.js"></script>
-<script type="text/javascript" src="js/isotope.min.js"></script>
-<script type="text/javascript" src="js/tilt.jquery.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
-<script type="text/javascript" src="js/cookie.js"></script>
-<script type="text/javascript" src="js/url-tracking.js"></script>
-<!--<script src="/chat/widget.js"></script>-->
+    crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<script type="text/javascript" src="js/popper.min.js" defer></script>
+<script type="text/javascript" src="js/bootstrap.min.js" defer></script>
+<script type="text/javascript" src="js/slick.js" defer></script>
+<script type="text/javascript" src="js/wow.min.js" defer></script>
+<script type="text/javascript" src="js/purecounter.js" defer></script>
+<script type="text/javascript" src="js/isotope.min.js" defer></script>
+<script type="text/javascript" src="js/tilt.jquery.js" defer></script>
+<script type="text/javascript" src="js/custom.js" defer></script>
+<script type="text/javascript" src="js/cookie.js" defer></script>
+<script type="text/javascript" src="js/url-tracking.js" defer></script>
 
 
 
@@ -1928,7 +1935,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         '<button type="button" class="rg-nav rg-prev" aria-label="Previous image">' + ICON_PREV + '</button>' +
         '<div class="rg-spinner" aria-hidden="true"></div>' +
         '<div class="rg-error">This image could not be loaded.</div>' +
-        '<img class="rg-img" alt="" draggable="false">' +
+        '<img loading="lazy" class="rg-img" alt="" draggable="false">' +
         '<div class="rg-hint"></div>' +
         '<button type="button" class="rg-nav rg-next" aria-label="Next image">' + ICON_NEXT + '</button>' +
       '</div>' +
